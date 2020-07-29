@@ -1,5 +1,7 @@
 # java-junit-sample
 
+![Build and Test](https://github.com/Hackathon2020GitHubActions/java-junit-sample/workflows/Build%20and%20Test/badge.svg?branch=master&event=push)<br>
+
 This project is meant to show the usage of JUnit, Mockito and Powermock for unit testing in Java.
 To be able to show some "real" examples a kind of dummy application is provided here to have some
 usecases for the different tests. The dummy application does really nothing, but it has some of the
